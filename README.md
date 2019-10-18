@@ -26,7 +26,7 @@ The resulting HTML:
   <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">  
 </head>
 <body>
-Hello World!
+Hello, World!
 </body>
 </html>
 ```
