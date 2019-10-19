@@ -1,6 +1,8 @@
 # Python-HTML-Gen
 Quick and easy way to generate HTML files on the fly.
 
+## Getting Started
+
 Make the HTML dynamic by inserting strings like this:
 ```
 str1 = "Hello"
@@ -18,7 +20,7 @@ contents = '''<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 ''' % (str1, str2)
 ```
 
-The resulting HTML:
+Output:
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
